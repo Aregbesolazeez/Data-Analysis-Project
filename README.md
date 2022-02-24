@@ -1,5 +1,5 @@
 # Analyze Supermarket Data Across the Country - Company XYZ
-Company XYZ owns a nationwide supermarket chain. Each of the country's major branches, located in Lagos, Abuja, and Port Harcourt, kept track of sales for three months. The goal of this project is to assist the company in better understanding sales trends and determining its growth as supermarket competition grows.
+Company XYZ owns a nationwide supermarket chain. Each of the country's major branches, located in Lagos, Abuja, and Port Harcourt, kept track of sales for three months. The goal of this project is to assist the company in better understanding sales trends and determining its growth as supermarket competition keeps growing.
 
 # The phases of the project and a summary of the tasks that have been done
 The phases of the project invovles:
