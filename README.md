@@ -58,11 +58,11 @@ iv. The payment channel utilized by the majority of clients to purchase for each
 
 # Insights
 The following insights where derived:
-i. The city with the highest total gross income is Port Harcourt, having a total gross income of #13268244.78, with a difference of #524524.14 to the city with the lowest gross income, Abuja.
+i. The city with the highest total gross income is Port Harcourt, having a total gross income of #1895463.54, with a difference of #74932.02 to the city with the lowest gross income, Abuja.
 
-ii. The city with the highest total Unit price is Lagos, having a total Unit price of #46936234.8, with a difference of #369457.2 to the city with the lowest Unit price, Abuja.
+ii. The city with the highest total Unit price is Lagos, having a total Unit price of #6705176.4, with a difference of #52779.6 to the city with the lowest Unit price, Abuja.
 
-iii. The city with the highest total Quantity is Lagos, having a total Quantity of 13013, with a difference of 273 to the city with the lowest Quantity, Abuja.
+iii. The city with the highest total Quantity is Lagos, having a total Quantity of #1859, with a difference of #39 to the city with the lowest Quantity, Abuja.
 
 iv. The highest sold product line is Fashion accessories and the lowest sold product line is Health and beauty
 
@@ -79,7 +79,7 @@ vi. The Payment channel for each branch.
 *The Epay payment is most used in Lagos Branch.
 *The Cash payment is most used in Port Harcourt Branch.
 
-vii. Branch 'B' (Abuja Branch) has 50% of it's ratings below 7 while branches 'A' (Lagos Branch) and 'C' (Port Harcourt Branch) have 50% of their ratings above 7. Hence branch 'B' has the lowest ratings.
+vii. Branch 'B' (Abuja Branch) has over 50% of it's ratings below 7 while branches 'A' (Lagos Branch) and 'C' (Port Harcourt Branch) have over 50% of their ratings above 7. Hence branch 'B' has the lowest ratings.
 
 viii. The gender type effect on kind of products being purchased at the supermarket.
     1. Food and beverages:
